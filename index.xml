@@ -3,7 +3,7 @@
   <category name="utilities">
     <reapack name="Create Verb Aux" type="script" desc="Create Verb Aux">
      <version name="1.0" author="Dominic Barmet" time="21-09-2025">
-        <source main="main">https://raw.githubusercontent.com/dominicbarmet/DBA_Reaper_Scripts/refs/heads/main/scripts/CreateVerb.lua</source>
+        <source main="main">https://github.com/dominicbarmet/DBA_Reaper_Scripts/raw/refs/heads/main/script/CreateVerb.lua</source>
       </version>
     </reapack>
   </category>
