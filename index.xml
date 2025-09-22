@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1.0" name="DBA_Reaper_Scripts">
   <category name="utilities">
-    <reapack name="Create Verb Aux" type="script" desc="Create Verb Aux.lua">
+    <reapack name="Create Verb Aux.lua" type="script" desc="Create Verb Aux.lua">
      <version name="1.0" author="Dominic Barmet" time="21-09-2025">
         <source main="main">https://github.com/dominicbarmet/DBA_Reaper_Scripts/raw/refs/heads/main/script/CreateVerb.lua</source>
       </version>
